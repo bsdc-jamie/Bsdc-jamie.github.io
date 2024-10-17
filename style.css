@@ -1,0 +1,9 @@
+h1{
+    color: rgb(10, 174, 199);
+    background-color: darkviolet;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+body {
+    background-image: url("/images/230617.jpg");
+}
