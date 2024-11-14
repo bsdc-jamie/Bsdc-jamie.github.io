@@ -1,9 +1,15 @@
-h1{
-    color: rgb(10, 174, 199);
-    background-color: darkviolet;
-    font-size: xx-large;
-    font-family: 'Courier New', Courier, monospace;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: red;
 }
-body {
-    background-image: url("/images/230617.jpg");
-}
+ 
+html, body {
+     height: 100%;
+    border: red 1px solid;    
+ }
+
+.page {
+     height: 100%;
+ }
